@@ -10,16 +10,16 @@ Technologies Used
 HTML: The backbone of the structure, providing the necessary elements for the form.
 CSS: Styles the form to enhance visual appeal and user interaction.
 
-Preview
+# Preview
 <!-- Replace with a screenshot link -->
 
-How to Use
+# How to Use
 Download the project files to your local machine.
 Open index.html in your web browser to view the form.
 Feel free to customize the form fields as per your requirements.
 Contributing
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
 
-License
+# License
 This project is licensed under the MIT License, allowing for personal and commercial use.
 

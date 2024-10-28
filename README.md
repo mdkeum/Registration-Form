@@ -14,6 +14,10 @@ CSS: Styles the form to enhance visual appeal and user interaction.
 ## Preview
 ![Registration Form Screenshot](https://github.com/mdkeum/Registration_Form/blob/main/images/registration-form-screenshot.JPG)
 
+## Live Demo
+
+You can view a live demo of the Photo Gallery [here](https://mdkeum.github.io/Photo_Gallery/). 
+
 ## How to Use
 Download the project files to your local machine.
 Open index.html in your web browser to view the form.

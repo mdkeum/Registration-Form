@@ -11,7 +11,7 @@ HTML: The backbone of the structure, providing the necessary elements for the fo
 CSS: Styles the form to enhance visual appeal and user interaction.
 
 # Preview
-<!-- Replace with a screenshot link -->
+![Registration Form Screenshot](https://github.com/mdkeum/Registration_Form/blob/main/images/registration-form-screenshot.JPG)
 
 # How to Use
 Download the project files to your local machine.

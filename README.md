@@ -1,4 +1,4 @@
-## Registration Form
+# Registration Form
 This project showcases a responsive registration form built with HTML and CSS, designed to provide a seamless user experience for web applications requiring user sign-up. The form features a clean, user-friendly interface that makes navigation straightforward.
 
 Key Features
@@ -10,16 +10,22 @@ Technologies Used
 HTML: The backbone of the structure, providing the necessary elements for the form.
 CSS: Styles the form to enhance visual appeal and user interaction.
 
-# Preview
+## Preview
 ![Registration Form Screenshot](https://github.com/mdkeum/Registration_Form/blob/main/images/registration-form-screenshot.JPG)
 
-# How to Use
+## How to Use
 Download the project files to your local machine.
 Open index.html in your web browser to view the form.
 Feel free to customize the form fields as per your requirements.
 Contributing
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
 
-# License
+## License
 This project is licensed under the MIT License, allowing for personal and commercial use.
+ 
+## Contributing
+Contributions are welcome! If you have suggestions for improvements or want to add new features, please feel free to create a pull request.
 
+## Contact Me
+
+If you have any questions or feedback, please reach out through my contact form [here](https://forms.gle/nGUiqKjCSFUVFcvV9).

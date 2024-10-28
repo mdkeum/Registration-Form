@@ -16,7 +16,7 @@ CSS: Styles the form to enhance visual appeal and user interaction.
 
 ## Live Demo
 
-You can view a live demo of the Photo Gallery [here](https://mdkeum.github.io/Photo_Gallery/). 
+You can view a live demo of the Photo Gallery [here](https://mdkeum.github.io/Registration_Form/). 
 
 ## How to Use
 Download the project files to your local machine.

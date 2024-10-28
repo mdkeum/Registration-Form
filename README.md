@@ -33,4 +33,4 @@ Contributions are welcome! If you have suggestions for improvements or want to a
 
 ## Contact Me
 
-If you have any questions or feedback, please reach out through my contact form [here](https://forms.gle/nGUiqKjCSFUVFcvV9).
+If you have any questions or feedback, please reach out through my contact form [here](https://forms.gle/nXtzbpJXCPSpXUh8A).
